@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<rows>
+  <row>
+    <itemID>item001</itemID>
+    <name>막대기</name>
+    <explain>흔히 볼 수 있는 막대기</explain>
+    <maxpackage>1</maxpackage>
+    <attack>1</attack>
+    <attackspeed>0.5</attackspeed>
+    <range>1</range>
+    <effect>0</effect>
+    <usesp>1</usesp>
+  </row>
+  <row>
+    <itemID>item002</itemID>
+    <name>목검</name>
+    <explain>초보 전사들이 사용하는 검</explain>
+    <maxpackage>1</maxpackage>
+    <attack>1</attack>
+    <attackspeed>1</attackspeed>
+    <range>1</range>
+    <effect>0</effect>
+    <usesp>1</usesp>
+  </row>
+  <row>
+    <itemID>item003</itemID>
+    <name>목각 활</name>
+    <explain>초보 궁수들이 사용하는 활</explain>
+    <maxpackage>1</maxpackage>
+    <attack>3</attack>
+    <attackspeed>0.5</attackspeed>
+    <range>3</range>
+    <effect>0</effect>
+    <usesp>2</usesp>
+  </row>
+  <row>
+    <itemID>item004</itemID>
+    <name>불속성 스태프</name>
+    <explain>불의 기운이 담긴 스태프</explain>
+    <maxpackage>1</maxpackage>
+    <attack>0</attack>
+    <attackspeed>1</attackspeed>
+    <range>3</range>
+    <effect>0</effect>
+    <usesp>2</usesp>
+  </row>
+  <row>
+    <itemID>item005</itemID>
+    <name>얼음속성 스태프</name>
+    <explain>얼음의 기운이 담긴 스태프</explain>
+    <maxpackage>1</maxpackage>
+    <attack>0</attack>
+    <attackspeed>1</attackspeed>
+    <range>3</range>
+    <effect>0</effect>
+    <usesp>2</usesp>
+  </row>
+  <row>
+    <itemID>item006</itemID>
+    <name>퓨전 스태프</name>
+    <explain>양 속성의 기운이 담긴 스태프</explain>
+    <maxpackage>1</maxpackage>
+    <attack>0</attack>
+    <attackspeed>1</attackspeed>
+    <range>3</range>
+    <effect>0</effect>
+    <usesp>3</usesp>
+  </row>
+  <row>
+    <itemID>item007</itemID>
+    <name>홀리소드</name>
+    <explain>빛의 기운이 담긴 검</explain>
+    <maxpackage>1</maxpackage>
+    <attack>2</attack>
+    <attackspeed>1.5</attackspeed>
+    <range>1</range>
+    <effect>0</effect>
+    <usesp>2</usesp>
+  </row>
+  <row>
+    <itemID>item008</itemID>
+    <name>홀리보우</name>
+    <explain>빛의 기운이 담긴 활</explain>
+    <maxpackage>1</maxpackage>
+    <attack>2</attack>
+    <attackspeed>0.75</attackspeed>
+    <range>3</range>
+    <effect>0</effect>
+    <usesp>2</usesp>
+  </row>
+</rows>

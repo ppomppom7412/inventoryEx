@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<monster>
+		<index>Mon01</index>
+		<name>해충</name>
+		<attack>1</attack>
+		<attackspeed>1</attackspeed>
+		<range>1</range>
+		<hp>2</hp>
+		<movespeed>2</movespeed>
+	</monster>
+	<monster>
+		<index>Mon02</index>
+		<name>칼든 광신도</name>
+		<attack>1</attack>
+		<attackspeed>1.5</attackspeed>
+		<range>1</range>
+		<hp>3</hp>
+		<movespeed>1</movespeed>
+	</monster>
+	<monster>
+		<index>Mon03</index>
+		<name>활든 광신도</name>
+		<attack>2</attack>
+		<attackspeed>0.5</attackspeed>
+		<range>3</range>
+		<hp>2</hp>
+		<movespeed>1</movespeed>
+	</monster>
+	<monster>
+		<index>Mon04</index>
+		<name>포르기네이</name>
+		<attack>2</attack>
+		<attackspeed>1</attackspeed>
+		<range>1</range>
+		<hp>3</hp>
+		<movespeed>0</movespeed>
+	</monster>
+	<monster>
+		<index>Mon05</index>
+		<name>광신교주</name>
+		<attack>1</attack>
+		<attackspeed>1</attackspeed>
+		<range>3</range>
+		<hp>10</hp>
+		<movespeed>1</movespeed>
+	</monster>
+	<monster>
+		<index>Mon06</index>
+		<name>오크 정찰병</name>
+		<attack>1</attack>
+		<attackspeed>1.5</attackspeed>
+		<range>1</range>
+		<hp>2</hp>
+		<movespeed>1.5</movespeed>
+	</monster>
+	<monster>
+		<index>Mon07</index>
+		<name>오크 전사</name>
+		<attack>2</attack>
+		<attackspeed>1</attackspeed>
+		<range>1</range>
+		<hp>3</hp>
+		<movespeed>1</movespeed>
+	</monster>
+	<monster>
+		<index>Mon08</index>
+		<name>오크 궁수</name>
+		<attack>2</attack>
+		<attackspeed>0.5</attackspeed>
+		<range>3</range>
+		<hp>2</hp>
+		<movespeed>1</movespeed>
+	</monster>
+	<monster>
+		<index>Mon09</index>
+		<name>오크 십인대장</name>
+		<attack>3</attack>
+		<attackspeed>1</attackspeed>
+		<range>1</range>
+		<hp>12</hp>
+		<movespeed>1</movespeed>
+	</monster>
+	<monster>
+		<index>Mon10</index>
+		<name>뒤틀린 정령</name>
+		<attack>1</attack>
+		<attackspeed>1</attackspeed>
+		<range>3</range>
+		<hp>2</hp>
+		<movespeed>1</movespeed>
+	</monster>
+	<monster>
+		<index>Mon11</index>
+		<name>남성 좀비</name>
+		<attack>2</attack>
+		<attackspeed>1</attackspeed>
+		<range>1</range>
+		<hp>3</hp>
+		<movespeed>0.5</movespeed>
+	</monster>
+	<monster>
+		<index>Mon12</index>
+		<name>여성 좀비</name>
+		<attack>1</attack>
+		<attackspeed>2</attackspeed>
+		<range>1</range>
+		<hp>2</hp>
+		<movespeed>0.5</movespeed>
+	</monster>
+	<monster>
+		<index>Mon13</index>
+		<name>십자가 좀비</name>
+		<attack>2</attack>
+		<attackspeed>0.5</attackspeed>
+		<range>2</range>
+		<hp>3</hp>
+		<movespeed>1</movespeed>
+	</monster>
+	<monster>
+		<index>Mon14</index>
+		<name>거대 좀비</name>
+		<attack>5</attack>
+		<attackspeed>0.5</attackspeed>
+		<range>2</range>
+		<hp>7</hp>
+		<movespeed>1</movespeed>
+	</monster>
+	<monster>
+		<index>Mon15</index>
+		<name>엘더 좀비</name>
+		<attack>3</attack>
+		<attackspeed>1</attackspeed>
+		<range>1</range>
+		<hp>14</hp>
+		<movespeed>2</movespeed>
+	</monster>
+	<monster>
+		<index>Mon16</index>
+		<name>훈련용 더미</name>
+		<attack>0</attack>
+		<attackspeed>1</attackspeed>
+		<range>1</range>
+		<hp>2</hp>
+		<movespeed>0</movespeed>
+	</monster>
+</root>

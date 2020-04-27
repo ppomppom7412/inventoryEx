@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<rows>
+  <row>
+    <itemID>item050</itemID>
+    <name>칼자루</name>
+    <explain>목검을 만들 때 사용하는 칼자루</explain>
+    <maxpackage>1</maxpackage>
+    <isconsume>1</isconsume>
+  </row>
+  <row>
+    <itemID>item051</itemID>
+    <name>포르기네이 시위</name>
+    <explain>포르기네이의 줄기로 만들어진 활시위</explain>
+    <maxpackage>1</maxpackage>
+    <isconsume>1</isconsume>
+  </row>
+  <row>
+    <itemID>item052</itemID>
+    <name>화속성 원소</name>
+    <explain>불속성 마법을 사용할 수 있게 해준다</explain>
+    <maxpackage>1</maxpackage>
+    <isconsume>0</isconsume>
+  </row>
+  <row>
+    <itemID>item053</itemID>
+    <name>빙속성 원소</name>
+    <explain>얼음속성 마법을 사용할 수 있게 해준다</explain>
+    <maxpackage>1</maxpackage>
+    <isconsume>0</isconsume>
+  </row>
+  <row>
+    <itemID>item054</itemID>
+    <name>정제된 신성석</name>
+    <explain>신성석을 정제해 만든 돌로, 좀비에게 뛰어난 효과를 보인다.</explain>
+    <maxpackage>1</maxpackage>
+    <isconsume>0</isconsume>
+  </row>
+</rows>

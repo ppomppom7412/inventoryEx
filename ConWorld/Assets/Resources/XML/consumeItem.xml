@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<rows>
+  <row>
+    <itemID>item010</itemID>
+    <name>평범한 물약</name>
+    <explain>평범한 물약이다</explain>
+    <maxpackage>5</maxpackage>
+    <hpheal>2</hpheal>
+    <spheal>0</spheal>
+    <effect>0</effect>
+  </row>
+  <row>
+    <itemID>item011</itemID>
+    <name>좋은 물약</name>
+    <explain>비싼 물약이다</explain>
+    <maxpackage>5</maxpackage>
+    <hpheal>3</hpheal>
+    <spheal>0</spheal>
+    <effect>0</effect>
+  </row>
+  <row>
+    <itemID>item012</itemID>
+    <name>박하스스톤</name>
+    <explain>피로를 회복해준다</explain>
+    <maxpackage>5</maxpackage>
+    <hpheal>0</hpheal>
+    <spheal>2</spheal>
+    <effect>0</effect>
+  </row>
+  <row>
+    <itemID>item013</itemID>
+    <name>콜드식스</name>
+    <explain>잠이 안올 수 있다</explain>
+    <maxpackage>5</maxpackage>
+    <hpheal>0</hpheal>
+    <spheal>3</spheal>
+    <effect>0</effect>
+  </row>
+  <row>
+    <itemID>item014</itemID>
+    <name>오로나민D</name>
+    <explain>따라하지 마세요</explain>
+    <maxpackage>5</maxpackage>
+    <hpheal>0</hpheal>
+    <spheal>0</spheal>
+    <effect>상태이상 회복</effect>
+  </row>
+</rows>

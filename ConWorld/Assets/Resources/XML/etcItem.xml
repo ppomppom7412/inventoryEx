@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<rows>
+  <row>
+    <itemID>item100</itemID>
+    <name>광신도복</name>
+    <explain>광신도들이 입고 다니는 복장</explain>
+    <maxpackage>5</maxpackage>
+  </row>
+  <row>
+    <itemID>item101</itemID>
+    <name>포르기네이의 줄기</name>
+    <explain>매우 질겨 활을 만들 때 사용된다.</explain>
+    <maxpackage>5</maxpackage>
+  </row>
+  <row>
+    <itemID>item102</itemID>
+    <name>오크 지령서</name>
+    <explain>익숙한 문자로 쓰여져 있는 문서</explain>
+    <maxpackage>5</maxpackage>
+  </row>
+  <row>
+    <itemID>item103</itemID>
+    <name>원소 결정</name>
+    <explain>원소의 기운을 담고있는 보석</explain>
+    <maxpackage>5</maxpackage>
+  </row>
+  <row>
+    <itemID>item104</itemID>
+    <name>오크 무기</name>
+    <explain>오크들이 사용하던 무기</explain>
+    <maxpackage>5</maxpackage>
+  </row>
+  <row>
+    <itemID>item105</itemID>
+    <name>좀비의 뼈</name>
+    <explain>인간의 뼈와 같은 성분으로 구성돼 있다.</explain>
+    <maxpackage>5</maxpackage>
+  </row>
+  <row>
+    <itemID>item106</itemID>
+    <name>신성석</name>
+    <explain>신성한 기운이 느껴지는 원석</explain>
+    <maxpackage>5</maxpackage>
+  </row>
+</rows>
